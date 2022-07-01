@@ -18,6 +18,7 @@ This is an e-commerce electronics and gaming items shopping application for andr
 https://freedom-gaming-ipa.herokuapp.com/api/v1/
 
 ## Github Link of Backend :point_right: 
+https://github.com/ankitasikder/Proj-5-Freedom-Gaming-Backend
        
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1F91JgwaQmm6BjiWpNn2dBl-h8HRl6icx/view" download>Click here to download</a>
 
